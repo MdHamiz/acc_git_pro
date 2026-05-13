@@ -1,1 +1,1 @@
-# acc_git_pro
+echo "welcome to sample project"
